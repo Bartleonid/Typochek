@@ -1,0 +1,81 @@
+element.style {
+}
+h1
+    {
+    color:Blue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 200px; 
+    text-shadow: 2px 2px black;
+        }
+body {
+    display: block;
+    margin: 50px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-left:50px;
+    background-image: url(http://localhost/images/DSC_0348.JPG);
+    background-repeat: no-repeat;
+    background-position: top bottom;
+    background-size: 1600px 1000px;
+    
+    }
+input 
+    {
+    background-color:Aqua;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;  
+    border-left: 10;    
+    }
+
+.button
+{
+    
+    border: none;
+    color: Lime;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 180px;
+    margin-top: 50px; 
+    font-style:oblique; 
+    text-align: justify;
+    }
+    .word {
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 0px;  
+    color: Lime;
+    position: relative;
+    top: 8px;
+    left: 160px;
+    font-size: 18px;
+        }
+.textarea {   
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 50px;  
+    color: Lime;
+    position: relative;
+    top: 8px;
+    left: 160px;
+    font-size: 18px;
+    }
+    textarea 
+    {
+    background-color:Aqua;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;  
+    border-left: 10;    
+    }
+ a {color:green; background-color:transparent; text-decoration:none}
